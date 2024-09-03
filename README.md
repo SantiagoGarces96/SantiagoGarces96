@@ -25,17 +25,16 @@ I have solved complex problems, I love process automation, helping others, conti
 
 - ⚡ Hobbies **I love playing Sudoku**
 
+- Contact me: <p align="lenght"> <a href="https://github.com/SantiagoGarces96" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"     alt="https://github.com/SantiagoGarces96" height="30" width="40" />
+  </a>
+  <a href="https://santiagogarcesstory@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg" alt="https://santiagogarcesstory@gmail.com" height="30" width="40"/>
+  </a>
+  </p>
+
 <br>
 <br>
-<br>
-<br>
-
-
-
-
-
-
-
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
