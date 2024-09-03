@@ -1,18 +1,15 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=SantiagoGarces96&label=Profile%20views&color=0e75b6&style=flat" alt="SantiagoGarces96" /> </p>
-
-![portada](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
-
-<h1 align="center">
-  Hi, I'm 
-  <a href="https://www.linkedin.com/in/YepesF/">Santiago Aguirre Graces</a>
-  <img width="100" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
-</h2> 
-
-<h3 align="center">Full Stack Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SantiagoGarces96&label=Profile%20views&color=0e75b6&style=flat" alt="SantiagoGarces96" /> </p>
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Santiago Aguirre Garces</a></h1>
+<h3 align="center">Full Stack Developer </h3>
 
 Since I was a child I was always interested in systems, I studied a technology in order to strengthen my tastes and since then my hunger for acquiring more and more knowledge related to the IT world has not stopped, now I saw the opportunity to study Full Stack Developer and I loved JavaScript, HTML, CSS, React, Redux, NodeJS, Sequelize, Postgres, SQL. It's an amazing world that I want to be part of.<br>
 <br>
 I have solved complex problems, I love process automation, helping others, continuous learning, acquiring new technologies and above all, teamwork is what I love the most, because it is the engine that drives projects beyond their scope.
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 <br>
 <br>
@@ -23,29 +20,24 @@ I have solved complex problems, I love process automation, helping others, conti
 
 - 🌱 Learning **Material UI, Tailwind CSS**
 
-- ⚡ Hobbies **Me encanta jugar Sudoku**
+- ⚡ Hobbies **I love playing Sudoku**
 
 <br>
 <br>
+
+
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
   
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
-  </a> 
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
@@ -55,11 +47,7 @@ I have solved complex problems, I love process automation, helping others, conti
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
@@ -70,14 +58,6 @@ I have solved complex problems, I love process automation, helping others, conti
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
   </a> 
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -102,10 +82,6 @@ I have solved complex problems, I love process automation, helping others, conti
   
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a> 
 
 </p>
