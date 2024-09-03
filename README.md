@@ -36,13 +36,13 @@ I have solved complex problems, I love process automation, helping others, conti
 <br>
 <br>
 
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">LANGUAGES AND TOOLS</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=typescript,js,html,css,react,nextjs,nodejs,express,postgres,mongo,git,vscode,docker,postman,linux,windows&perline=10"  />
 </p>
 <br />
 
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">🏆 GITHUB TROPHIES 🏆</h2>
 <p align="center">
   <a href=https://github.com/SantiagoGarces96">
      <img src="https://github-profile-trophy.vercel.app/?username=SantiagoGarces96" alt="SantiagoGarces96" />
@@ -50,19 +50,19 @@ I have solved complex problems, I love process automation, helping others, conti
 </p>
 <br />
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 GITHUB STATS 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>GITHUB STATS</strong></h3>
       <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SantiagoGarces96&show_icons=true&locale=en" alt="SantiagoGarces96" />
 </p>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>STREAK STATS</strong></h3>
       <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoGarces96&show_icons=true&locale=en" alt="SantiagoGarces96" />
 </p>
@@ -70,13 +70,13 @@ I have solved complex problems, I love process automation, helping others, conti
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>USED LANGUAGES</strong></h3>
       <p align="center">
   <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoGarces96&show_icons=true&locale=en&layout=compact" alt="SantiagoGarces96" />
 </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>TOP CONTRIBUTIONS</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
           <img width="100%" align="center" src="https://github-contributor-stats.vercel.app/api?username=SantiagoGarces96&limit=3&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
