@@ -11,11 +11,13 @@ Since I was a child I was always interested in systems, I studied a technology i
 I have solved complex problems, I love process automation, helping others, continuous learning, acquiring new technologies and above all, teamwork is what I love the most, because it is the engine that drives projects beyond their scope.
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="320" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <br>
 <br>
+<br>
+  
 
 - 🔭 I collaborated in the project [MealMistery](https://mealmastery.netlify.app/)
 
