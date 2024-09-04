@@ -23,7 +23,7 @@ I have solved complex problems, I love process automation, helping others, conti
 
 - 💬 About me **JavaScript, HTML, CSS, React, NodeJS, Postgres, GIT.**
 
-- 🌱 Learning ** Tailwind CSS**
+- 🌱 Learning **Tailwind CSS**
 
 - ⚡ Hobbies **I love playing Sudoku**
 
@@ -64,7 +64,6 @@ I have solved complex problems, I love process automation, helping others, conti
       </p>
     </td>
   </tr>
-   <tr>
     <td width="50%">
       <h3 align="center"><strong>TOP CONTRIBUTIONS</strong></h3>
       <p align="center">
