@@ -6,7 +6,7 @@ Santiago Aguirre Garces</a></h1>
 
 <h3 align="center">Full Stack Developer </h3>
 
-Since I was a child I was always interested in systems, I studied a technology in order to strengthen my tastes and since then my hunger for acquiring more and more knowledge related to the IT world has not stopped, now I saw the opportunity to study Full Stack Developer and I loved JavaScript, HTML, CSS, React, Redux, NodeJS, Sequelize, Postgres, SQL. It's an amazing world that I want to be part of.<br>
+Since I was a child I was always interested in systems, I studied a technology in order to strengthen my tastes and since then my hunger for acquiring more and more knowledge related to the IT world has not stopped, now I saw the opportunity to study Full Stack Developer and I loved JavaScript, HTML, CSS, React, Redux, NodeJS, Postgres, mongo. It's an amazing world that I want to be part of.<br>
 <br>
 I have solved complex problems, I love process automation, helping others, continuous learning, acquiring new technologies and above all, teamwork is what I love the most, because it is the engine that drives projects beyond their scope.
 
@@ -21,9 +21,9 @@ I have solved complex problems, I love process automation, helping others, conti
 
 - 🔭 I collaborated in the project [MealMistery](https://mealmastery.netlify.app/)
 
-- 💬 About me **JavaScript, HTML, CSS, React, NodeJS, Postgres, SQL GIT**
+- 💬 About me **JavaScript, HTML, CSS, React, NodeJS, Postgres, GIT.**
 
-- 🌱 Learning **Material UI, Tailwind CSS**
+- 🌱 Learning ** Tailwind CSS**
 
 - ⚡ Hobbies **I love playing Sudoku**
 
@@ -40,7 +40,7 @@ I have solved complex problems, I love process automation, helping others, conti
 
 <h2 align="center">LANGUAGES AND TOOLS</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=typescript,js,html,css,react,nextjs,nodejs,express,postgres,mongo,git,vscode,docker,postman,linux,windows&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=typescript,js,html,css,react,nextjs,nodejs,express,postgres,mongo,git,vscode,postman,linux,windows&perline=10"  />
 </p>
 <br />
 
@@ -63,20 +63,8 @@ I have solved complex problems, I love process automation, helping others, conti
 </p>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>STREAK STATS</strong></h3>
-      <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoGarces96&show_icons=true&locale=en" alt="SantiagoGarces96" />
-</p>
-    </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>USED LANGUAGES</strong></h3>
-      <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoGarces96&show_icons=true&locale=en&layout=compact" alt="SantiagoGarces96" />
-</p>
-    </td>
+   <tr>
     <td width="50%">
       <h3 align="center"><strong>TOP CONTRIBUTIONS</strong></h3>
       <p align="center">
