@@ -64,6 +64,14 @@ I have solved complex problems, I love process automation, helping others, conti
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>STREAK STATS</strong></h3>
+      <p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoGarces96&show_icons=true&locale=en" alt="SantiagoGarces96" />
+</p>
+  </td>
+</tr>
     <td width="50%">
       <h3 align="center"><strong>TOP CONTRIBUTIONS</strong></h3>
       <p align="center">
