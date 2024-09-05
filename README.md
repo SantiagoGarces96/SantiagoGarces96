@@ -55,23 +55,25 @@ I have solved complex problems, I love process automation, helping others, conti
 <h2 align="center">📊 GITHUB STATS 📊</h2>
 
 <table width="100%">
-  <tr>
     <td width="50%">
       <h3 align="center"><strong>GITHUB STATS</strong></h3>
       <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SantiagoGarces96&show_icons=true&locale=en" alt="SantiagoGarces96" />
 </p>
-      </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center"><strong>STREAK STATS</strong></h3>
       <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoGarces96&show_icons=true&locale=en" alt="SantiagoGarces96" />
 </p>
-  </td>
 </tr>
+   <tr>
+    <td width="50%">
+      <h3 align="center"><strong>USED LANGUAGES</strong></h3>
+      <p align="center">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoGarces96&show_icons=true&locale=en&layout=compact" alt="SantiagoGarces96" />
+</p>
+    </td>
     <td width="50%">
       <h3 align="center"><strong>TOP CONTRIBUTIONS</strong></h3>
       <p align="center">
@@ -80,5 +82,5 @@ I have solved complex problems, I love process automation, helping others, conti
         </a>
       </p>
     </td>
-  </tr>
+
 </table>
